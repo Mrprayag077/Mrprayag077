@@ -3,6 +3,18 @@
 <!--
 **Mrprayag077/Mrprayag077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# 🌟 Welcome to my portfolio!🌟
+
+
+
+![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFMEEVFLABZSXK57J4AIZNWFAAQ)
+![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMFSQB7I3447GCNI64CZNWFABQ)
+![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMF56AB6ZZTPJP5DXX4ZNWFADA)
+![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME23SK5A2QZQWGUXV4ZNWFAEA)
+![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFMFFWEUDRPV4MBAX2BSZNWFAFA)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
