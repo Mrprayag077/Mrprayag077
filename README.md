@@ -30,9 +30,18 @@ Here are some ideas to get you started:
 
 
 ### Heya I'm Prayag Bhosale👋
-<br>
+<!-- <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
-</br>
+</br> -->
+
+
+![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFMEEVFLABZSXK57J4AIZNWFAAQ)
+![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMFSQB7I3447GCNI64CZNWFABQ)
+![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMF56AB6ZZTPJP5DXX4ZNWFADA)
+![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME23SK5A2QZQWGUXV4ZNWFAEA)
+![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFMFFWEUDRPV4MBAX2BSZNWFAFA)
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
 
