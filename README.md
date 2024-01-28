@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heya I'm Prayag Bhosale👋
 
 <!--
 **Mrprayag077/Mrprayag077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
 
-
-### Heya I'm Prayag Bhosale👋
+### 🌟 Welcome to my portfolio!🌟
 <!-- <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 </br> -->
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
 
 - 🔭 I’m currently working on Web Development Technologies;
 - 🌱 I’m currently learning Node.js, React;
