@@ -1,4 +1,6 @@
-### Heya I'm Prayag Bhosale👋  [![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
+### Heya I'm Prayag Bhosale👋  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mrprayag077-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prayagbhosale22/)](https://www.linkedin.com/in/prayagbhosale22/) [![Instagram Badge](https://img.shields.io/badge/-@PrayagBhosale-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/prayagbhosale_22/)](https://www.instagram.com/prayagbhosale_22/)
 
 <!--
 **Mrprayag077/Mrprayag077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
