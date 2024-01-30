@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🌟 Welcome to my portfolio!🌟  <a href="https://mrprayag-portfolio-2d915.web.app/" target="_blank">view</a>
+### 🌟 Welcome to my portfolio!🌟  [<a href="https://mrprayag-portfolio-2d915.web.app/" target="_blank">view</a>]
 <!-- <br>
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 </br> -->
