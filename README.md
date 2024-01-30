@@ -9,11 +9,11 @@
 
 
 
-![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFMEEVFLABZSXK57J4AIZNWFAAQ)
-![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMFSQB7I3447GCNI64CZNWFABQ)
-![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMF56AB6ZZTPJP5DXX4ZNWFADA)
-![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME23SK5A2QZQWGUXV4ZNWFAEA)
-![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFMFFWEUDRPV4MBAX2BSZNWFAFA)
+![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFME6EON6E75ODOFKKXYZNY4FSQ)
+![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMEVBUFUQKNGLGDCU4GZNY4FTQ)
+![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMFCOFNZSJB5OX3BTDEZNY4FUA)
+![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME7IV4KKXNGOISZK7AZNY4FVQ)
+![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFME6UFKE6XZLNV7EBCGZNY4FWA)
 
 
 
@@ -35,13 +35,11 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 </br> -->
 
-
-![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFMEEVFLABZSXK57J4AIZNWFAAQ)
-![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMFSQB7I3447GCNI64CZNWFABQ)
-![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMF56AB6ZZTPJP5DXX4ZNWFADA)
-![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME23SK5A2QZQWGUXV4ZNWFAEA)
-![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFMFFWEUDRPV4MBAX2BSZNWFAFA)
-
+![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFME6EON6E75ODOFKKXYZNY4FSQ)
+![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMEVBUFUQKNGLGDCU4GZNY4FTQ)
+![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMFCOFNZSJB5OX3BTDEZNY4FUA)
+![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME7IV4KKXNGOISZK7AZNY4FVQ)
+![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFME6UFKE6XZLNV7EBCGZNY4FWA)
 
 
 
