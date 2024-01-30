@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 </br> -->
 
 ![1](./1.png)
-![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMEVBUFUQKNGLGDCU4GZNY4FTQ)
-![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMFCOFNZSJB5OX3BTDEZNY4FUA)
-![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME7IV4KKXNGOISZK7AZNY4FVQ)
-![5](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/5.png?token=GHSAT0AAAAAACMESFME6UFKE6XZLNV7EBCGZNY4FWA)
+![2](./2.png)
+![3](./3.png)
+![4](./4.png)
+![5](./5.png)
 
 
 
