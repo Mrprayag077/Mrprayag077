@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 </br> -->
 
-![1](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/1.png?token=GHSAT0AAAAAACMESFME6EON6E75ODOFKKXYZNY4FSQ)
+![1](./1.png)
 ![2](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/2.png?token=GHSAT0AAAAAACMESFMEVBUFUQKNGLGDCU4GZNY4FTQ)
 ![3](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/3.png?token=GHSAT0AAAAAACMESFMFCOFNZSJB5OX3BTDEZNY4FUA)
 ![4](https://raw.githubusercontent.com/Mrprayag077/Prayag-Portfolio/main/src/assets/img/projects/git/4.png?token=GHSAT0AAAAAACMESFME7IV4KKXNGOISZK7AZNY4FVQ)
