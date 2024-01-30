@@ -5,7 +5,7 @@
 <!--
 **Mrprayag077/Mrprayag077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 🌟 Welcome to my portfolio!🌟 <a href="[mrprayag-portfolio-2d915.web.app/](https://mrprayag-portfolio-2d915.web.app/)">view</a>
+# 🌟 Welcome to my portfolio!🌟 <a href="https://mrprayag-portfolio-2d915.web.app/">view</a>
 
 
 
