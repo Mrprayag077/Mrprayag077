@@ -35,9 +35,9 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 </br> -->
 
-![1](./11.png)
+![1](./1.png)
 ![2](./2.png)
-![3](./33.png)
+![3](./3.png)
 ![4](./44.png)
 ![5](./55.png)
 
